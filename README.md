@@ -37,3 +37,5 @@
 **C5.** Solutions of hard knapsack problems using extreme pruning. 3rd CryCybIW, 26-27 May 2016, Athens, Greece, Optimization and its Applications (SOIA), vol.131, Pages 81-95, Springer (2018) - Joint work with A. Papadopoulou and E. Daravigkas.
 
 **C6.** Enhancing an Attack to DSA Schemes, CAI 2019, p. 13-25. LNCS 11545, Springer, 2019 - with M. Adamoudis and D. Poulakis
+
+**BC1** Product Subset Problem : Applications to number theory and cryptography, Book Chapter, Analysis, Cryptography and Information Science, Chapter 5, Vol. 10, World Scientific, 2023, - Joint work with V. Martidis and S. Tiganourias.
