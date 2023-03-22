@@ -1,3 +1,5 @@
+## Journals
+
 **J1.** Integer Points on the curve $Y^2=X^3 \pm p^kX.$ Mathematics of Computation , Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006).
 
 **J2.** Practical Solution of the Diophantine Equation $y^2 = x(x + 2^ap^b)(x- 2^ap^b).$ Mathematics of Computation,, Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006) - Joint work with D. Poulakis
@@ -26,6 +28,8 @@
 
 **J14.** Attacking (EC)DSA With Partially Known Multiples of Nonces, To appear in Information and Computation, Elsevier (with M. Adamoudis and D. Poulakis).
 
+## Conferences 
+
 **C1.** Computation of Pell Numbers of the Form $px^2.$ Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
 
 **C2.** Lattice Attacks on DSA schemes based on Lagrange's Algorithm, CAI 2013 (France), LNCS 8080, Pages 119-131, Springer (2011) - Joint work with D. Poulakis
@@ -38,4 +42,6 @@
 
 **C6.** Enhancing an Attack to DSA Schemes, CAI 2019, p. 13-25. LNCS 11545, Springer, 2019 - with M. Adamoudis and D. Poulakis
 
-**BC1** Product Subset Problem : Applications to number theory and cryptography, Book Chapter, Analysis, Cryptography and Information Science, Chapter 5, Vol. 10, World Scientific, 2023, - Joint work with V. Martidis and S. Tiganourias.
+## Book Chapters
+
+**BC1.** Product Subset Problem : Applications to number theory and cryptography, Book Chapter, Analysis, Cryptography and Information Science, Chapter 5, Vol. 10, World Scientific, 2023, - Joint work with V. Martidis and S. Tiganourias.
