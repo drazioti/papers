@@ -28,8 +28,7 @@
 
 **J14.** Attacking (EC)DSA With Partially Known Multiples of Nonces, To appear in Information and Computation, Elsevier (with M. Adamoudis and D. Poulakis).
 
-**J15.** Message recovery attack to NTRU using a lattice independent from the public key, To appear in Advances in Mathematics of Communications, Amer. Inst. of Math. Sciences, (with M. Adamoudis).
-
+**J15.** Message recovery attack to NTRU using a lattice independent from the public key, To appear in Advances in Mathematics of Communications, Amer. Inst. of Math. Sciences, (with M. Adamoudis). [The version contained within this repository differs from the one published in the journal.]
 ## Conferences 
 
 **C1.** Computation of Pell Numbers of the Form $px^2.$ Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
