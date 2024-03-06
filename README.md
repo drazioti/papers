@@ -16,7 +16,7 @@
 
 **J8.** An effective version of Chevalley-Weil Theorem for projective plane curves. Houston Journal of Mathematics, 38(1) (2012) - Joint work with D. Poulakis
 
-**J9.** Integer Solutions of the Equation $y^2 = Ax^4 + B,$ Journal of Integer Sequences, vol.18 (4) (2015) (14 pages) [1] - Joint work with Dr. Paraskevas K. Alvanos
+**J9.** Integer Solutions of the Equation $y^2 = Ax^4 + B,$ Journal of Integer Sequences, vol.18 (4) (2015) (14 pages) - Joint work with Dr. Paraskevas K. Alvanos
 
 **J10.** (EC)DSA lattice attacks based on Coppersmith's method, Information Processing Letters 116(8), Elsevier (2016), Pages 541–545.
 
@@ -29,6 +29,9 @@
 **J14.** Attacking (EC)DSA With Partially Known Multiples of Nonces, To appear in Information and Computation, Elsevier (with M. Adamoudis and D. Poulakis).
 
 **J15.** Message recovery attack to NTRU using a lattice independent from the public key, To appear in Advances in Mathematics of Communications, Amer. Inst. of Math. Sciences, (with M. Adamoudis). [The version contained within this repository differs from the one published in the journal.]
+
+**J16.** Descent methods for studying integer points on $y^{p}=f(x)g(x),$ for $p$ odd prime. To appear in Houston Journal of Mathematics.
+
 ## Conferences 
 
 **C1.** Computation of Pell Numbers of the Form $px^2.$ Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
