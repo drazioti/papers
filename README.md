@@ -32,6 +32,12 @@
 
 **J16.** Descent methods for studying integer points on $y^{p}=f(x)g(x),$ for $p$ odd prime. To appear in Houston Journal of Mathematics.
 
+**J17.** Attacking (EC)DSA Scheme With Ephemeral Keys Sharing Specific Bits.Theoretical Computer Science, Vol. 1001, June 2024, Elsevier, 2024 (with M.Adamoudis and D. Poulakis).
+
+**J18.** Cryptographic Primitives based on Compact Knapsack, J. of informa-tion security and applications, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
+
+**J19.** A Parallel Algorithm for the Inversion of Matrices with SimultaneouslyDiagonalizable Blocks, Volume 174, 15 November 2024, Pages 340-351, Elsevier,doi:10.1016/j.camwa.2024.09.014(with D. S. Lazaridis and N. L. Tsitsas).
+
 ## Conferences 
 
 **C1.** Computation of Pell Numbers of the Form $px^2.$ Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
@@ -45,6 +51,8 @@
 **C5.** Solutions of hard knapsack problems using extreme pruning. 3rd CryCybIW, 26-27 May 2016, Athens, Greece, Optimization and its Applications (SOIA), vol.131, Pages 81-95, Springer (2018) - Joint work with A. Papadopoulou and E. Daravigkas.
 
 **C6.** Enhancing an Attack to DSA Schemes, CAI 2019, p. 13-25. LNCS 11545, Springer, 2019 - with M. Adamoudis and D. Poulakis
+
+**C7.** Towards message recovery in NTRU Encryption with auxiliary data,NuT-MiC 2024, LNCS 14966, Springer (with M. Adamoudis and E. Poimenidou)
 
 ## Book Chapters
 
