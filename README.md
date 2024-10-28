@@ -36,7 +36,7 @@
 
 **J18.** Cryptographic Primitives based on Compact Knapsack, J. of informa-tion security and applications, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
 
-**J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, Computers & Mathematics with Applications, Volume 174, 15 November 2024, Pages 340-351, Elsevier,doi:10.1016/j.camwa.2024.09.014(with D. S. Lazaridis and N. L. Tsitsas).
+**J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, Computers & Mathematics with Applications, Volume 174, 15 November 2024, Pages 340-351, ElsevierComputers & Mathematics with Applications (with D. S. Lazaridis and N. L. Tsitsas).
 
 ## Conferences 
 
