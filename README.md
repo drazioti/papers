@@ -1,42 +1,42 @@
 ## Journals
 
-**J1.** Integer Points on the curve $Y^2=X^3 \pm p^kX.$ Mathematics of Computation , Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006).
+**J1.** Integer Points on the curve $Y^2=X^3 \pm p^kX.$ *Mathematics of Computation* , Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006).
 
-**J2.** Practical Solution of the Diophantine Equation $y^2 = x(x + 2^ap^b)(x- 2^ap^b).$ Mathematics of Computation,, Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006) - Joint work with D. Poulakis
+**J2.** Practical Solution of the Diophantine Equation $y^2 = x(x + 2^ap^b)(x- 2^ap^b).$ *Mathematics of Computation*, Vol. 75, 255, Pages 1493-1505, American Mathematical Society (2006) - Joint work with D. Poulakis
 
-**J3.** The Ljunggren Equation revisited, Colloquium Mathematicum, Vol.109, Number 1, Pages 9-11, Inst. of Math.-Polish Academy of Sciences (2007).
+**J3.** The Ljunggren Equation revisited, *Colloquium Mathematicum*, Vol.109, Number 1, Pages 9-11, Inst. of Math.-Polish Academy of Sciences (2007).
 
-**J4.** Explicit Chevalley-Weil Theorem for Affine Plane Curves. Rocky Mountain Journal of Mathematics, Vol.39, no.1, Pages 49-70, Rocky Mountain Mathematics Consortium (2009)- Joint work with D. Poulakis
+**J4.** Explicit Chevalley-Weil Theorem for Affine Plane Curves. *Rocky Mountain Journal of Mathematics*, Vol.39, no.1, Pages 49-70, Rocky Mountain Mathematics Consortium (2009)- Joint work with D. Poulakis
 
-**J5.** Solving the Diophantine Equation $y^2=x(x^2-n^2).$ Journal of Number Theory, Volume 129, Issue 1, Pages 102-121, Science Direct (2009) -Joint work with D. Poulakis
+**J5.** Solving the Diophantine Equation $y^2=x(x^2-n^2).$ *Journal of Number Theory*, Volume 129, Issue 1, Pages 102-121, Science Direct (2009) -Joint work with D. Poulakis
 
-**J6.** Practical solution of the Diophantine Equation $X^{nr}+Y^{n}=q,$ Elemente der Mathematik, 66, Pages 19-25, European Mathematical Society (2011). 
+**J6.** Practical solution of the Diophantine Equation $X^{nr}+Y^{n}=q,$ *Elemente der Mathematik**, 66, Pages 19-25, European Mathematical Society (2011). 
 
-**J7.** On the number of Integer Points on the Elliptic Curve $y^2=x^3+Ax.$ International Journal of Number Theory, Vol.7(3), Pages 611-621, World Scientific (2011).
+**J7.** On the number of Integer Points on the Elliptic Curve $y^2=x^3+Ax.$ International Journal of Number Theory*, Vol.7(3), Pages 611-621, World Scientific (2011).
 
-**J8.** An effective version of Chevalley-Weil Theorem for projective plane curves. Houston Journal of Mathematics, 38(1) (2012) - Joint work with D. Poulakis
+**J8.** An effective version of Chevalley-Weil Theorem for projective plane curves. *Houston Journal of Mathematics*, 38(1) (2012) - Joint work with D. Poulakis
 
-**J9.** Integer Solutions of the Equation $y^2 = Ax^4 + B,$ Journal of Integer Sequences, vol.18 (4) (2015) (14 pages) - Joint work with Dr. Paraskevas K. Alvanos
+**J9.** Integer Solutions of the Equation $y^2 = Ax^4 + B,$ *Journal of Integer Sequences*, vol.18 (4) (2015) (14 pages) - Joint work with Dr. Paraskevas K. Alvanos
 
-**J10.** (EC)DSA lattice attacks based on Coppersmith's method, Information Processing Letters 116(8), Elsevier (2016), Pages 541–545.
+**J10.** (EC)DSA lattice attacks based on Coppersmith's method, *Information Processing Letters* 116(8), Elsevier (2016), Pages 541–545.
 
-**J11.** Improved attacks on knapsack problem with their variants and a knapsack type ID-scheme. Advances in Mathematics of Communication 2018, 12(3), Pages 429-449, American Institute of Mathematical Sciences - Joint work with A. Papadopoulou.
+**J11.** Improved attacks on knapsack problem with their variants and a knapsack type ID-scheme. *Advances in Mathematics of Communication* 2018, 12(3), Pages 429-449, American Institute of Mathematical Sciences - Joint work with A. Papadopoulou.
 
-**J12.** Birthday type attacks to the Naccache-Stern Knapsack cryptosystem. Information Processing Letters, Vol. 138, October 2018, Pages 39 - 43, Elsevier  - Joint work with N. Chatzis and M. Anastasiadis.
+**J12.** Birthday type attacks to the Naccache-Stern Knapsack cryptosystem. *Information Processing Letters,* Vol. 138, October 2018, Pages 39 - 43, Elsevier  - Joint work with N. Chatzis and M. Anastasiadis.
 
-**J13.** Asymptotic formulas for Vasyunin cotangent sums. Applied Math. and Comp., Vol. 383, Oct. 2020, Elsevier- Joint work with G. Fikioris.
+**J13.** Asymptotic formulas for Vasyunin cotangent sums. *Applied Math. and Comp.,* Vol. 383, Oct. 2020, Elsevier- Joint work with G. Fikioris.
 
-**J14.** Attacking (EC)DSA With Partially Known Multiples of Nonces, To appear in Information and Computation, Elsevier (with M. Adamoudis and D. Poulakis).
+**J14.** Attacking (EC)DSA With Partially Known Multiples of Nonces, *Information and Computation*, Volume 301, Part B, December 2024, Elsevier (with M. Adamoudis and D. Poulakis).
 
-**J15.** Message recovery attack to NTRU using a lattice independent from the public key, Advances in Mathematics of Communications vol.19 No.1, 2025, p. 109-125, Amer. Inst. of Math. Sciences, (with M. Adamoudis). [The version contained within this repository differs from the one published in the journal.] 
+**J15.** Message recovery attack to NTRU using a lattice independent from the public key, *Advances in Mathematics of Communications* vol.19 No.1, 2025, p. 109-125, Amer. Inst. of Math. Sciences, (with M. Adamoudis). [The version contained within this repository differs from the one published in the journal.] 
 
-**J16.** Descent methods for studying integer points on $y^p = f(x)g(x),$ for $p$ odd prime, pp. 173–182., Houston Journal of Mathematics, Volume 50, No. 1, 2024, Pages 173-182.
+**J16.** Descent methods for studying integer points on $y^p = f(x)g(x),$ for $p$ odd prime, pp. 173–182., *Houston Journal of Mathematics,* Volume 50, No. 1, 2024, Pages 173-182.
 
-**J17.** Attacking (EC)DSA Scheme With Ephemeral Keys Sharing Specific Bits. Theoretical Computer Science, Vol. 1001, June 2024, Elsevier, 2024 (with M.Adamoudis and D. Poulakis).
+**J17.** Attacking (EC)DSA Scheme With Ephemeral Keys Sharing Specific Bits. *Theoretical Computer Science,* Vol. 1001, June 2024, Elsevier, 2024 (with M.Adamoudis and D. Poulakis).
 
-**J18.** Cryptographic Primitives based on Compact Knapsack, J. of information security and applications, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
+**J18.** Cryptographic Primitives based on Compact Knapsack, *J. of information security and applications*, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
 
-**J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, Computers & Mathematics with Applications, Volume 174, 15 November 2024, Pages 340-351, Elsevier (with D. S. Lazaridis and N. L. Tsitsas).
+**J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, *Computers & Mathematics with Applications,* Volume 174, 15 November 2024, Pages 340-351, Elsevier (with D. S. Lazaridis and N. L. Tsitsas).
 
 
 ## Conferences 
