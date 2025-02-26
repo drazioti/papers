@@ -12,7 +12,7 @@
 
 **J6.** Practical solution of the Diophantine Equation $X^{nr}+Y^{n}=q,$ *Elemente der Mathematik**, 66, Pages 19-25, European Mathematical Society (2011). 
 
-**J7.** On the number of Integer Points on the Elliptic Curve $y^2=x^3+Ax.$ International Journal of Number Theory*, Vol.7(3), Pages 611-621, World Scientific (2011).
+**J7.** On the number of Integer Points on the Elliptic Curve $y^2=x^3+Ax.$ *International Journal of Number Theory*, Vol.7(3), Pages 611-621, World Scientific (2011).
 
 **J8.** An effective version of Chevalley-Weil Theorem for projective plane curves. *Houston Journal of Mathematics*, 38(1) (2012) - Joint work with D. Poulakis
 
