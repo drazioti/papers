@@ -38,7 +38,7 @@
 
 **J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, Computers & Mathematics with Applications, Volume 174, 15 November 2024, Pages 340-351, Elsevier (with D. S. Lazaridis and N. L. Tsitsas).
 
-**J20.** Descent methods for studying integer points on yp = f(x)g(x), for p odd prime, pp. 173–182., Houston Journal of Mathematics, Volume 50, No. 1, 2024, Pages 173-182.
+**J20.** Descent methods for studying integer points on $y^p = f(x)g(x),$ for $p$ odd prime, pp. 173–182., Houston Journal of Mathematics, Volume 50, No. 1, 2024, Pages 173-182.
 
 ## Conferences 
 
