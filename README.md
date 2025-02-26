@@ -34,9 +34,11 @@
 
 **J17.** Attacking (EC)DSA Scheme With Ephemeral Keys Sharing Specific Bits.Theoretical Computer Science, Vol. 1001, June 2024, Elsevier, 2024 (with M.Adamoudis and D. Poulakis).
 
-**J18.** Cryptographic Primitives based on Compact Knapsack, J. of informa-tion security and applications, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
+**J18.** Cryptographic Primitives based on Compact Knapsack, J. of information security and applications, Volume 83, Elsevier, 2024,arXiv:2303.08973,doi:j.jisa.2024.103781(with George S. Rizos).
 
 **J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, Computers & Mathematics with Applications, Volume 174, 15 November 2024, Pages 340-351, Elsevier (with D. S. Lazaridis and N. L. Tsitsas).
+
+**J20.** Descent methods for studying integer points on yp = f(x)g(x), for p odd prime, pp. 173–182., Houston Journal of Mathematics, Volume 50, No. 1, 2024, Pages 173-182.
 
 ## Conferences 
 
