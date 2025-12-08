@@ -55,7 +55,7 @@
 
 **C6.** Enhancing an Attack to DSA Schemes, CAI 2019, p. 13-25. LNCS 11545, Springer, 2019 - with M. Adamoudis and D. Poulakis
 
-**C7.** Towards message recovery in NTRU Encryption with auxiliary data,NuT-MiC 2024, LNCS 14966, Springer (with M. Adamoudis and E. Poimenidou)
+**C7.** Towards message recovery in NTRU Encryption with auxiliary data, NUTMIC 2024, LNCS 14966, Springer (with M. Adamoudis and E. Poimenidou)
 
 ## Book Chapters
 
