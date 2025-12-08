@@ -38,6 +38,8 @@
 
 **J19.** A Parallel Algorithm for the Inversion of Matrices with Simultaneously Diagonalizable Blocks, *Computers & Mathematics with Applications,* Volume 174, 15 November 2024, Pages 340-351, Elsevier (with D. S. Lazaridis and N. L. Tsitsas).
 
+**J20.** Message Recovery Attack in NTRU through VFK Lattices, *To appear in Acta Informatica*, Springer (with E.D.Pomeniodu, M. Adamoudis, and K. Tsichlas).
+
 
 ## Conferences 
 
