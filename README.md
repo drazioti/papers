@@ -40,7 +40,7 @@
 
 **J20.** Message Recovery Attack in NTRU through VFK Lattices, *Acta Informatica 63(1)*, Springer, 2026 (with E.D.Poimenidou, M. Adamoudis, and K. Tsichlas).
 
-**J21.** Message Recovery Attack in NTRU via Knapsack. *To appear in Applicable Algebra in Engineering, Communication and Computing (AAECC).* Springer. (with E.D. Poimenidou).
+**J21.** Message Recovery Attack in NTRU via Knapsack. *To appear in Applicable Algebra in Engineering, Communication and Computing (AAECC).* Springer (with E.D. Poimenidou).
 
 ## Conferences 
 
